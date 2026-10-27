@@ -36,8 +36,10 @@ AI 도구는 버튼 이름과 메뉴 위치가 자주 바뀝니다. 책의 본�
 
 | 장 | 파일 | 들어 있는 것 |
 |---|---|---|
+| 3 | [chapter03.zip](examples/chapter03.zip) | 가계부 (요청 B로 만든 결과) |
 | 5 | [chapter05.zip](examples/chapter05.zip) | 첫 웹페이지 |
-| 9 | [chapter09.zip](examples/chapter09.zip) | 등산 기록장 + 규칙 파일(CLAUDE.md) |
+| 7 | [chapter07.zip](examples/chapter07.zip) | 예산 기능을 넣은 가계부 + 컨텍스트 팩·프로젝트 지침 글 |
+| 9 | [chapter09.zip](examples/chapter09.zip) | 등산 기록장 + 기획서(plan.md, 8장) + 규칙 파일(CLAUDE.md) |
 | 10 | [chapter10.zip](examples/chapter10.zip) | 등산 기록장 (작게 나눠 더한 기능) |
 | 11 | [chapter11.zip](examples/chapter11.zip) | 등산 기록장 (버그를 고친 뒤) |
 | 12 | [chapter12.zip](examples/chapter12.zip) | 등산 기록장 (계획 모드로 고친 뒤) |
@@ -48,7 +50,7 @@ AI 도구는 버튼 이름과 메뉴 위치가 자주 바뀝니다. 책의 본�
 | 16 | [chapter16.zip](examples/chapter16.zip) | 내 컴퓨터에서 쓰는 광고 대시보드·예산 계산기 |
 | 17 | [chapter17.zip](examples/chapter17.zip) | 등산 유형 심리테스트 |
 | 18 | [chapter18.zip](examples/chapter18.zip) | 브라우저 게임 '정상까지 달려라' |
-| 19 | [chapter19.zip](examples/chapter19.zip) | 광고 문구 도우미 (AI API 연동) |
+| 19 | [chapter19.zip](examples/chapter19.zip) | 광고 문구 도우미 (AI API 연동, 23장 보안 수정까지 반영) |
 | 20 | [chapter20.zip](examples/chapter20.zip) | 로그인하는 등산 기록장 (Supabase) |
 | 24 | [chapter24.zip](examples/chapter24.zip) | 공개 전 체크리스트를 거친 게임 |
 | 25 | [chapter25.zip](examples/chapter25.zip) | 기록을 남긴 폴더와 남기지 않은 폴더 비교 |
@@ -57,6 +59,8 @@ AI 도구는 버튼 이름과 메뉴 위치가 자주 바뀝니다. 책의 본�
 | 28 | [chapter28.zip](examples/chapter28.zip) | 인수인계 문서(HANDOFF.md)를 붙인 로그인 기록장 |
 | 29 | [chapter29.zip](examples/chapter29.zip) | 29장에서 살펴본 심리테스트 (17장 결과와 같음) |
 | 31 | [chapter31.zip](examples/chapter31.zip) | 회사 제안서(PROPOSAL.md)를 붙인 업무 자동화 |
+
+표에 없는 장은 새로 만드는 파일이 없거나(1·2·4·21·22·30장), 다른 장 예제에 들어 있습니다. 6장은 chapter05.zip에서 시작하고, 8장 기획서는 chapter09.zip에, 23장 수정은 chapter19.zip에 들어 있습니다.
 
 ### 받기 전에 알아 둘 것
 
